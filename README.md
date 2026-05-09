@@ -33,8 +33,6 @@ That is not a style guideline. It is a hard gate. Code enforces it. The substrat
 
 **[The Shield](books/the_shield/)** — MIC 2.0 and the Architecture of Impunity. The Epstein flight logs, the Palantir contracts, the defense revolving door — documented from primary sources and rebuilt as continuous narrative.
 
-**[DOGE](books/doge/)** — The Efficiency Files. Fiction constructed from filed executive orders, Federal Register entries, and public contracting records. The documents are real. The narrator is not.
-
 ### Sports Narrative
 
 **[Magic Hour](books/magic_hour/)** — A memoir of Showtime Lakers basketball, 1979–1991. The Forum. The fast break. The last night the lights were on. Written in a voice that earned the knowledge, not researched it.
@@ -44,6 +42,8 @@ That is not a style guideline. It is a hard gate. Code enforces it. The substrat
 ### Fiction
 
 **[SUDO_KINGDOM](books/sudo_kingdom/)** — Literary fiction. Root access to the system. A narrator who hasn't left the compound in twenty-three days, watching Camera 12, waiting for a crontab to fire. The meth is from a man in Boca. The access model the book describes is not fictional.
+
+**[DOGE](books/doge/)** — The Efficiency Files. Fiction constructed from filed executive orders, Federal Register entries, and public contracting records. The documents are real. The narrator is not.
 
 ---
 
